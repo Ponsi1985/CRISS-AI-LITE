@@ -1,14 +1,14 @@
 {
-  "name": "FREDFX""LITE],
-  "description": "Javascript WhatsApp bot made by ᴄʀɪss ᴠᴇᴠᴏ",
+  "name": "FREDFX""LITE],
+  "description": "Javascript WhatsApp bot made by fred ",
   "logo": "https://files.catbox.moe/egligh.jpg",
-  "keywords": ["FREDFX","LITE"],
+  "keywords": ["FREDFX","LITE"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.. Must Start with 'FREDFX-LITE~'",
+      "description": "Put the session-id here.. Must Start with 'FREDFX-LITE~'",
       "required": true,
       "value": ""
     },
